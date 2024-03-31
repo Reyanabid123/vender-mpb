@@ -1,0 +1,29 @@
+.tooltip{
+position: relative;
+background-color:
+#00022F;
+border-radius: 8px;
+visibility: hidden;
+z-index: 1;
+padding: 5px;
+top: 25px;
+left: -50px;
+}
+tooltipv: hover . tooltip-text {
+visibility: visible;
+
+
+}
+
+.tooltip:: before {
+position: absolute;
+content: '';
+top: -4px;
+border-left: 5px solid transparent;
+border-right: 5px solid transparent;
+border-bottom: 5px solid white;
+}
+
+                            for add note for quick assece
+                            for add funny contact
+                            for add custom title for you favirite shop
